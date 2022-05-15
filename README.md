@@ -40,6 +40,8 @@ While using Google Colab, you cannot fully utilize Docker for packaging your MON
 ### MONAI Label:
 MONAI Label requires a running server and an external viewing application, so we can't easily host a hands-on example using Google Colab.  If you're interested in setting things up for MONAI Label locally, you can find the installation instructions in the installation section below. 
 
+You can find a video presentation + demo walkthrough by Andres Diaz-Pinto at the 2021 MONAI Bootcamp on YouTube here: https://www.youtube.com/watch?v=o8HipCgSZIw&list=PLtoSVSQ2XzyCobzE6NvwjNpITsQyPUtfs
+
 ## Install a Local Environment
 
 To set up your local environment, you'll need to follow MONAI Core, MONAI Label, and MONAI Deploy installation instructions. Below you can find links to each projects installation documentation:
