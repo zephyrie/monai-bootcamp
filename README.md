@@ -26,14 +26,14 @@ Running
 in a cell will verify this has worked and show you what kind of hardware you have access to.
 
 ### MONAI Core:
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/1. Getting Started with MONAI.ipynb">1. Getting Started with MONAI Core</a>
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/2. MONAI Datasets and Caching.ipynb">2. MONAI Datasets and Caching with MONAI Core</a>
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/3. End-To-End Workflow with MONAI.ipynb">3. End-To-End Workflow with MONAI Core</a>
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/1.%20Getting%20Started%20with%20MONAI.ipynb">1. Getting Started with MONAI Core</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/1.%20Getting%20Started%20with%20MONAI.ipynb")
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/2.%20MONAI%20Datasets%20and%20Caching.ipynb">2. MONAI Datasets and Caching with MONAI Core</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/2.%20MONAI%20Datasets%20and%20Caching.ipynb")
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/3.%20End-To-End%20Workflow%20with%20MONAI.ipynb">3. End-To-End Workflow with MONAI Core</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAICore/3.%20End-To-End%20Workflow%20with%20MONAI.ipynb")
 
 ### MONAI Deploy:
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/01_simple_app.ipynb">1. Creating a Simple Image Processing App with MONAI Deploy App SDK</a>
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/02_mednist_app-prebuilt.ipynb">2. Deploying a MedNIST Classifier App with MONAI Deploy App SDK</a>
-* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/03_segmentation_app.ipynb">3. Creating a Segmentation App with MONAI Deploy App SDK</a>
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/01_simple_app.ipynb">1. Creating a Simple Image Processing App with MONAI Deploy App SDK</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/01_simple_app.ipynb")
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/02_mednist_app-prebuilt.ipynb">2. Deploying a MedNIST Classifier App with MONAI Deploy App SDK</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/02_mednist_app-prebuilt.ipynb")
+* <a href="https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/03_segmentation_app.ipynb">3. Creating a Segmentation App with MONAI Deploy App SDK</a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/zephyrie/monai-bootcamp/blob/main/MONAIDeploy/03_segmentation_app.ipynb")
 
 While using Google Colab, you cannot fully utilize Docker for packaging your MONAI Deploy Application Package (MAP). For this reason, we've commented out the docker-specific instructions within the notebooks so that there are no issues. These can be uncommented and run to demonstrate the packaging process if running locally.
 
